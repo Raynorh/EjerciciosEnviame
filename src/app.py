@@ -66,7 +66,7 @@ def inicio():
                     {"ejercicio4":[
                             {"consumirApi(POST)":"http://10.42.0.203:4000/ejercicio4/1"},
                             {"Observarcion1":"faltaron modificaciones para generar con faker n cantidad de envios"},
-                            {"NOTA":"La respuesta de este resultado se aloja en respuesta.html en la raiz de la aplicación"},
+                            {"NOTA":"La respuesta de este ejercicio se aloja en respuesta.html en la raiz de la aplicación"},
                         ]
                     },
                     {"ejercicio5":[
