@@ -18,8 +18,6 @@ existen dos tablas:
 -enviame = para el ejercicio 2
 -ejercicio7 = para el mismo ejercicio7
 
-DOCKER proyecto:
-docker run -it -p 7000:4000 -d enviametest
 
 4)INICIAR EL PROYECTO CON:  python src/app.py
 
